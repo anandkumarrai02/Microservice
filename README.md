@@ -16,7 +16,7 @@ Microservices is an architectural style where an application is built as a colle
 - **Deployment Platform**: AWS EKS (Elastic Kubernetes Service)
 - **Application Type**: E-Commerce Website
 
- **[Pease find the complete descriptive blog about the project!!](https://drive.google.com/file/d/11RJl4sKeRVAhpk08oyN9sCYl639mfFyA/view?usp=sharing)**
+ **[Here pease find the complete descriptive blog about the project!!](https://drive.google.com/file/d/11RJl4sKeRVAhpk08oyN9sCYl639mfFyA/view?usp=sharing)**
 
 ## Microservices
 
