@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project showcases the implementation of a CI/CD pipeline for an e-commerce website composed of 11 microservices. The deployment platform is AWS EKS (Elastic Kubernetes Service).
+This project showcases the implementation of a CI/CD pipeline for an e-commerce website composed of 11 microservices. The deployment platform is AWS EKS (Elastic Kubernetes Service)
 
 ![Screenshot from 2024-07-28 17-27-11](https://github.com/user-attachments/assets/dd93bf34-14e8-4b10-b06f-b2401a40e8eb)
 
